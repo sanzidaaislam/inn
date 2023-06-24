@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1687595414 source:e:\my project\hotel\main.c
+	<stdio.h>
+	<conio.h>
+	<ctype.h>
+	<windows.h>
+	<stdlib.h>
+	<time.h>
+	"login.h"
+	"add.h"
+	"list.h"
+	"delete1.h"
+	"search.h"
+	"edit.h"
+
+1687594200 e:\my project\hotel\login.h
+
+1687595363 e:\my project\hotel\add.h
+
+1687594432 e:\my project\hotel\list.h
+
+1687594570 e:\my project\hotel\delete1.h
+
+1687594642 e:\my project\hotel\search.h
+
+1687594691 e:\my project\hotel\edit.h
+
+1687595416 source:c:\users\islam\onedrive\desktop\hotel\main.c
+	<stdio.h>
+	<conio.h>
+	<ctype.h>
+	<windows.h>
+	<stdlib.h>
+	<time.h>
+	"login.h"
+	"add.h"
+	"list.h"
+	"delete1.h"
+	"search.h"
+	"edit.h"
+
+1687594202 c:\users\islam\onedrive\desktop\hotel\login.h
+
+1687595364 c:\users\islam\onedrive\desktop\hotel\add.h
+
+1687594434 c:\users\islam\onedrive\desktop\hotel\list.h
+
+1687594572 c:\users\islam\onedrive\desktop\hotel\delete1.h
+
+1687594644 c:\users\islam\onedrive\desktop\hotel\search.h
+
+1687594692 c:\users\islam\onedrive\desktop\hotel\edit.h
+
